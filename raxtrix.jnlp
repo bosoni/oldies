@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp
+  spec="1.0+"
+  codebase="http://www.dhost.info/haima/games/"
+  href="raxtrix.jnlp">
+  <information>
+    <title>Raxtrix</title>
+    <vendor>mjt [mixut@hotmail.com], 2006</vendor>
+    <homepage href="http://www.dhost.info/haima/"/>
+    <description>Tetris clone</description>
+    <description kind="short">Tetris clone</description>
+    <offline-allowed/>
+  </information>
+  <security>
+    <all-permissions/>
+  </security>
+  <resources>
+    <j2se href="http://java.sun.com/products/autodl/j2se" version="1.4+"/>
+    <jar href="Raxtrix.jar"/>
+  </resources>  <application-desc/>
+</jnlp>
